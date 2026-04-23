@@ -1,4 +1,5 @@
 # AI CLI Tools Updater 🚀
+**En Linux (Ubuntu, Garuda, Zorin, etc.):**
 
 Un script en Bash simple y efectivo para mantener tus herramientas de IA por línea de comandos siempre actualizadas. Automatiza la verificación, descarga y validación de las versiones más recientes.
 
